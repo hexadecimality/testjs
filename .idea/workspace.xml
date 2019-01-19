@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb8e7aa7-50d1-470a-b6bb-dbafe7e9e75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample2/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample3/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/sample2/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample2/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample2/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sample2/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -57,6 +53,7 @@
         <option value="$PROJECT_DIR$/project2/script.js" />
         <option value="$PROJECT_DIR$/sample2/index.html" />
         <option value="$PROJECT_DIR$/project/script.js" />
+        <option value="$PROJECT_DIR$/sample3/script.js" />
         <option value="$PROJECT_DIR$/sample2/script.js" />
       </list>
     </option>
@@ -79,21 +76,6 @@
             <path>
               <item name="jscourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="jscourse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscourse" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscourse" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jscourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jscourse" type="462c0819:PsiDirectoryNode" />
-              <item name="sample1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jscourse" type="b2602c69:ProjectViewProjectNode" />
@@ -126,8 +108,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.script.js (1)">
+  <component name="RunManager" selected="Node.js.script.js (2)">
     <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/project/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sample3/script.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sample2/script.js" working-dir="$PROJECT_DIR$">
@@ -135,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script.js (2)" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.script.js" />
       </list>
@@ -150,19 +136,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547809025888</updated>
-      <workItem from="1547809030902" duration="7601000" />
+      <workItem from="1547809030902" duration="12062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7601000" />
+    <option name="totallyTimeSpent" value="12062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -170,7 +156,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20737328" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4362519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -206,6 +192,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sample3/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sample2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -215,8 +211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample2/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        <state relative-caret-position="200">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
